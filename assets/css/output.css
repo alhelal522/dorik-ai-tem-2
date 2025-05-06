@@ -546,8 +546,17 @@
   .bg-\[url\(\'\/assets\/images\/footer\/footer-bg\.png\'\)\] {
     background-image: url('/assets/images/footer/footer-bg.png');
   }
+  .bg-\[url\(\'\/assets\/images\/hero\/hero\/video-poster\.webp\'\)\] {
+    background-image: url('/assets/images/hero/hero/video-poster.webp');
+  }
+  .bg-\[url\(\'\/assets\/images\/hero\/video-bg\.svg\'\)\] {
+    background-image: url('/assets/images/hero/video-bg.svg');
+  }
   .bg-\[url\(\'\/assets\/images\/hero\/video-poster\.webp\'\)\] {
     background-image: url('/assets/images/hero/video-poster.webp');
+  }
+  .bg-\[url\(\'assets\/images\/hero\/video-bg\.svg\'\)\] {
+    background-image: url('assets/images/hero/video-bg.svg');
   }
   .bg-\[url\(\'dorik-ai-tem-2\/assets\/images\/hero\/\'\)\] {
     background-image: url('dorik-ai-tem-2/assets/images/hero/');
